@@ -1,0 +1,12 @@
+{
+  "name": "south-korea-impeachment-2024",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/api.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
