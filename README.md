@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a web application that fetches real-time data of the impeachment petition against President Yoon Suk-yeol and visualises it using `chart.js`.
+This project is a web application that fetches real-time data of the online impeachment petition against South Korean President Yoon Suk Yeol and visualises it using `chart.js`.
 
 ## Installation
 
