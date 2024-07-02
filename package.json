@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "node src/api.js"
+    "dev": "node src/api.js",
+    "start": "node src/server.js"
   },
   "dependencies": {
     "express": "^4.19.2",
